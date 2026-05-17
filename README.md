@@ -150,6 +150,7 @@ p.note { display: none; }
 
 <!--ここ上は、ほぼそのまま使います！-->
 
+<p><a href="https://torokoid.github.io/ooizumi_judo/" target="_blank">〜2019年までのOB会</a>><a href="https://torokoid.github.io/zuiho/" target="_blank">「瑞宝小綬章」受章の記録</a>><a href="https://torokoid.github.io/ooizumi_judo_2024/" target="_blank">2024年9月7日、OB会</a>><a href="https://torokoid.github.io/20250523_ooizumi_judo/" target="_blank">佐藤先生を囲んで山本先輩とお会いする会</a>><a href="https://torokoid.github.io/20250905_ooizumi_judo/" target="_blank">29期加藤先輩と30期高島さんとの繋がりで飲み会</a>><a>2026年5月16日、代々木にて柔道部OB会</a></p>
 
 <!--QRコードの挿入例-->
 <p align="left"> <img src="QR_2026May17.png" alt="アクセス用QRコード" width="100">QR for Access</p>
